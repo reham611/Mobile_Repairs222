@@ -16,7 +16,7 @@ namespace Mobile_Repairs22
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Customers());
+            Application.Run(new Login());
         }
     }
 }
